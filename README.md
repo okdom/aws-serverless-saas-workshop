@@ -1,3 +1,8 @@
+# MEMO
+cloudformation으로 aws infra deploy를 했는데
+template.yaml을 보면 된다
+api gateway 같은 경우엔 이쪽이 훨씬 쉽게 되어 있는 것으로 보인다
+
 # AWS Serverless SaaS Workshop
 The goal of this workshop is to build a multi-tenant Software-as-a-Service (SaaS) solution using AWS Serverless Services, such as Amazon API Gateway, Amazon Cognito, AWS Lambda, Amazon DynamoDB, AWS CodePipeline, and Amazon CloudWatch.
 
